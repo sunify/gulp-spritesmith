@@ -3,7 +3,8 @@
   "version": "0.0.2",
   "description": "A plugin for Gulp",
   "keywords": [
-    "gulpplugin", "sprite"
+    "gulpplugin",
+    "sprite"
   ],
   "homepage": "https://github.com/Otouto/gulp-spritesmith",
   "bugs": {
@@ -27,7 +28,8 @@
     "async": "~0.2.10",
     "spritesmith": "~0.18.0",
     "lodash": "~2.4.1",
-    "vinyl": "~0.2.3"
+    "vinyl": "~0.2.3",
+    "sha1": "~1.1.0"
   },
   "engines": {
     "node": ">=0.8.0",
